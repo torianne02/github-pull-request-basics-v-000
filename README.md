@@ -8,16 +8,11 @@
 
 ## Overview:
 
-The concept of a pull request is unique to Github. It is a request for the
-owner of a receiving repository to take your changes, that you made on your
-own copy of the repo ("your fork"), and "pull" them into the owner's repository.
-Pull requests power the open source community. Through this process,
-anyone can fork a repo, make changes and submit a pull request. Instead of
-the owner working on their codebase alone, _anyone_ can contribute: tests,
-documentation fixes, new features, awesome layout and graphics, etc...
+The concept of a pull request is unique to Github. It is a request for the owner of a receiving repository to take your changes, that you made on your own copy of the repo ("your fork"), and "pull" them into the owner's repository.
+Pull requests power the open source community. Through this process, anyone can fork a repo, make changes and submit a pull request. Instead of
+the owner working on their codebase alone, _anyone_ can contribute: tests, documentation fixes, new features, awesome layout and graphics, etc...
 
-There are some vocabulary words that we need to keep in mind in order to make
-sure that we're all on the same page.
+There are some vocabulary words that we need to keep in mind in order to make sure that we're all on the same page.
 
 * **revision control system**: a software program that keeps tracks of updates /
   deletions / additions / changes to a collection of content (usually a
